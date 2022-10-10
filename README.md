@@ -1,5 +1,6 @@
 # Fundamentos-del-Hardware
 Ejercicio FH
+##Imágenes
 Hedy Lamar
 ![image](Imágenes/HedyLamar.png)
 Radia Joy Perlman
@@ -9,4 +10,4 @@ Joan Clarke
 Grace Murray Hopper
 ![image](Imágenes/GraceMurrayHopper.png)
 Elena García Armada
-![image](Imágenes/EleneGarciaArmada.png)
+![image](Imágenes/ElenaGarciaArmada.png)
