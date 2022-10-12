@@ -1,13 +1,22 @@
 # Fundamentos-del-Hardware
-Ejercicio FH
-##Imágenes
-Hedy Lamar
-![image](Imágenes/HedyLamar.png)
-Radia Joy Perlman
-![image](Imágenes/RadiaJoyPerlman.png)
-Joan Clarke
-![image](Imágenes/JoanClarke.png)
-Grace Murray Hopper
-![image](Imágenes/GraceMurrayHopper.png)
-Elena García Armada
-![image](Imágenes/ElenaGarciaArmada.png)
+## Ejercicio FH
+
+### Contenido
+
+[HedyLamar](imagenes/hedylamar.md)
+
+[GraceMurray](imagenes/gracemurray.md)
+
+[ElenaGarcia](imagenes/elenagarcia.md)
+
+[JoanClarke](imagenes/joanclarke.md)
+
+[RadiaJoy](imagenes/radiajoy.md)
+
+### Referencias
+
+https://www.wikipedia.org/
+
+### Licencia
+
+![Licencia](imagenes2/licencia.png)
