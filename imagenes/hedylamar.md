@@ -1,1 +1,1 @@
-[HedyLamar](imaganes/HedyLamar.png)
+[HedyLamar](imagenes2/HedyLamar.png)
